@@ -1,0 +1,10 @@
+BROWSERNAME = "Firefox"
+CHROME_PATH = 'C:\\Users\\dillibabu.nsp\\drivers\\chromedriver.exe'
+FIREFOX_PATH = 'C:\\Users\\dillibabu.nsp\\drivers\\geckodriver.exe'
+URL = 'http://automationpractice.com/index.php'
+LST_VISIBLE_TEXT = ["Customer service", "Webmaster"]
+TEXT_MESSAGE = "This is for an automation purpose to store the data in message box"
+ALERT_MASSAGE = "Your message has been successfully sent to our team."
+INVALID_EMAIL_MASSAGE = "Invalid email address."
+INVALID_REF_MASSAGE = "The message cannot be blank."
+INVALID_SELECT_MASSAGE = "Please select a subject from the list provided. "

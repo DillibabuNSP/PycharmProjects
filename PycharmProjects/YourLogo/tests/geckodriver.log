@@ -1,0 +1,325 @@
+1660188300497	geckodriver	INFO	Listening on 127.0.0.1:50404
+1660188305203	geckodriver	INFO	Listening on 127.0.0.1:50438
+1660190491007	geckodriver	INFO	Listening on 127.0.0.1:52471
+1660190494586	geckodriver	INFO	Listening on 127.0.0.1:52479
+1660190654168	geckodriver	INFO	Listening on 127.0.0.1:52570
+1660190705648	geckodriver	INFO	Listening on 127.0.0.1:52601
+1660191355631	geckodriver	INFO	Listening on 127.0.0.1:53001
+1660204447394	geckodriver	INFO	Listening on 127.0.0.1:60318
+1660204450859	geckodriver	INFO	Listening on 127.0.0.1:60327
+1660205333580	geckodriver	INFO	Listening on 127.0.0.1:61947
+1660205336925	geckodriver	INFO	Listening on 127.0.0.1:61958
+1660220929619	geckodriver	INFO	Listening on 127.0.0.1:64013
+1660220937377	geckodriver	INFO	Listening on 127.0.0.1:64023
+1660221076606	geckodriver	INFO	Listening on 127.0.0.1:64113
+1660221082910	geckodriver	INFO	Listening on 127.0.0.1:64125
+1660235973867	geckodriver	INFO	Listening on 127.0.0.1:63651
+1660235981724	geckodriver	INFO	Listening on 127.0.0.1:63665
+1660236051269	geckodriver	INFO	Listening on 127.0.0.1:63696
+1660236057927	geckodriver	INFO	Listening on 127.0.0.1:63707
+1660236270734	geckodriver	INFO	Listening on 127.0.0.1:63823
+1660236276891	geckodriver	INFO	Listening on 127.0.0.1:63832
+1660237471964	geckodriver	INFO	Listening on 127.0.0.1:65356
+1660237477899	geckodriver	INFO	Listening on 127.0.0.1:65364
+1660237551277	geckodriver	INFO	Listening on 127.0.0.1:65398
+1660237558273	geckodriver	INFO	Listening on 127.0.0.1:65409
+1660625486863	geckodriver	INFO	Listening on 127.0.0.1:60644
+1660625500191	geckodriver	INFO	Listening on 127.0.0.1:60691
+1660630040612	geckodriver	INFO	Listening on 127.0.0.1:63292
+1660631800176	geckodriver	INFO	Listening on 127.0.0.1:63883
+1660632925605	geckodriver	INFO	Listening on 127.0.0.1:64721
+1660633273653	geckodriver	INFO	Listening on 127.0.0.1:65133
+1660633287475	geckodriver	INFO	Listening on 127.0.0.1:65145
+1660713774675	geckodriver	INFO	Listening on 127.0.0.1:60026
+1660713882275	geckodriver	INFO	Listening on 127.0.0.1:60071
+1660715872777	geckodriver	INFO	Listening on 127.0.0.1:60388
+1660715876331	geckodriver	INFO	Listening on 127.0.0.1:60395
+1660717086820	geckodriver	INFO	Listening on 127.0.0.1:60676
+1660717090215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileNzwAZf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717092377	Marionette	INFO	Marionette enabled
+1660717092547	Marionette	INFO	Listening on port 60689
+WebDriver BiDi listening on ws://localhost:60677
+Read port: 60689
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717094861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileNzwAZf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:60677/devtools/browser/5a381117-ac24-40f1-aae5-8ff7f06822dc
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660720401254	Marionette	INFO	Stopped listening on port 60689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileHbyfPm"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717113120	Marionette	INFO	Marionette enabled
+1660717113127	Marionette	INFO	Listening on port 60730
+WebDriver BiDi listening on ws://localhost:60709
+Read port: 60730
+1660717114033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileHbyfPm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60709/devtools/browser/84374133-387d-43f3-a5ea-f667768a06c2
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660720402667	Marionette	INFO	Stopped listening on port 60730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilebqUJ1j"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717304244	Marionette	INFO	Marionette enabled
+1660717304256	Marionette	INFO	Listening on port 60836
+WebDriver BiDi listening on ws://localhost:60825
+Read port: 60836
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717305069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilebqUJ1j\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:60825/devtools/browser/c3f3ae1f-d5bf-49d3-99cc-1426a79e6c49
+1660717324802	Marionette	INFO	Stopped listening on port 60836
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 7988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 184: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660717337996	geckodriver	INFO	Listening on 127.0.0.1:60861
+1660717341065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilecZg0D2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717342222	Marionette	INFO	Marionette enabled
+1660717342233	Marionette	INFO	Listening on port 60872
+WebDriver BiDi listening on ws://localhost:60862
+Read port: 60872
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717342994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilecZg0D2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60862/devtools/browser/f01e3a04-6408-4dc7-b854-c2d550c67451
+1660717348263	Marionette	INFO	Stopped listening on port 60872
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 136: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1660717821506	geckodriver	INFO	Listening on 127.0.0.1:61039
+1660717824545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileqd3WF5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717826798	Marionette	INFO	Marionette enabled
+1660717826827	Marionette	INFO	Listening on port 61049
+WebDriver BiDi listening on ws://localhost:61040
+Read port: 61049
+1660717827763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileqd3WF5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:61040/devtools/browser/7afe97bb-6b62-447b-a6ea-21671fb0cd03
+1660717844461	Marionette	INFO	Stopped listening on port 61049
+1660717860503	geckodriver	INFO	Listening on 127.0.0.1:61091
+1660717863582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61092" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileWbgV46"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717865177	Marionette	INFO	Marionette enabled
+1660717865201	Marionette	INFO	Listening on port 61101
+WebDriver BiDi listening on ws://localhost:61092
+Read port: 61101
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660717866027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileWbgV46\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:61092/devtools/browser/fadd1a1d-7765-47e1-9df4-ca1da4b93512
+1660717875395	Marionette	INFO	Stopped listening on port 61101
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660720219981	geckodriver	INFO	Listening on 127.0.0.1:61515
+1660720223049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilerlofKj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720225066	Marionette	INFO	Marionette enabled
+1660720225081	Marionette	INFO	Listening on port 61525
+WebDriver BiDi listening on ws://localhost:61516
+Read port: 61525
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720225705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilerlofKj\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:61516/devtools/browser/626281fe-d694-442f-a38e-e6e842a4d71e
+1660720245421	Marionette	INFO	Stopped listening on port 61525
+[Parent 1232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660720253021	geckodriver	INFO	Listening on 127.0.0.1:61559
+1660720256052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofile7MmtpM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720257067	Marionette	INFO	Marionette enabled
+1660720257079	Marionette	INFO	Listening on port 61570
+WebDriver BiDi listening on ws://localhost:61560
+Read port: 61570
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720257639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofile7MmtpM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61560/devtools/browser/19f1390b-6da6-4bb2-96de-94a846f8e047
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1660720264185	Marionette	INFO	Stopped listening on port 61570
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660720280205	geckodriver	INFO	Listening on 127.0.0.1:61592
+1660720283282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofiledbSbMQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720284338	Marionette	INFO	Marionette enabled
+1660720284345	Marionette	INFO	Listening on port 61602
+WebDriver BiDi listening on ws://localhost:61593
+Read port: 61602
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720285144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofiledbSbMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61593/devtools/browser/124d4b27-7d63-4f4a-a6f8-fbaf29fd8640
+1660720292587	Marionette	INFO	Stopped listening on port 61602
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660720302217	geckodriver	INFO	Listening on 127.0.0.1:61622
+1660720305272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileYz9mcX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720306270	Marionette	INFO	Marionette enabled
+1660720306279	Marionette	INFO	Listening on port 61632
+WebDriver BiDi listening on ws://localhost:61623
+Read port: 61632
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720306984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileYz9mcX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61623/devtools/browser/2a8c733e-3905-4e44-a480-fd50a57e22f2
+1660720313595	Marionette	INFO	Stopped listening on port 61632
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 3924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+1660720364495	geckodriver	INFO	Listening on 127.0.0.1:61661
+1660720367569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilef9yQed"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720368888	Marionette	INFO	Marionette enabled
+1660720368896	Marionette	INFO	Listening on port 61676
+WebDriver BiDi listening on ws://localhost:61662
+Read port: 61676
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720369501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilef9yQed\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61662/devtools/browser/26bbe06d-eee5-4863-8180-10c989a71a49
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1660720376246	Marionette	INFO	Stopped listening on port 61676
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660720382233	geckodriver	INFO	Listening on 127.0.0.1:61694
+1660720385305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileLnxN73"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720386103	Marionette	INFO	Marionette enabled
+1660720386113	Marionette	INFO	Listening on port 61705
+WebDriver BiDi listening on ws://localhost:61695
+Read port: 61705
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660720386821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileLnxN73\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61695/devtools/browser/100e79e0-d78a-4249-b6d6-d8d7d08f5a9b
+1660720393940	Marionette	INFO	Stopped listening on port 61705
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 20380, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20380, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660747863417	geckodriver	INFO	Listening on 127.0.0.1:50167
+1660747866626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilei3olRa"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660747876048	Marionette	INFO	Marionette enabled
+1660747876214	Marionette	INFO	Listening on port 50180
+Read port: 50180
+WebDriver BiDi listening on ws://localhost:50168
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660747880410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofilei3olRa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50168/devtools/browser/1604b215-a5aa-47da-99bc-167140c8facb
+1660747902585	Marionette	INFO	Stopped listening on port 50180
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1660747925535	geckodriver	INFO	Listening on 127.0.0.1:50210
+1660747928547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileLlfjNB"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660747930020	Marionette	INFO	Marionette enabled
+1660747930036	Marionette	INFO	Listening on port 50220
+WebDriver BiDi listening on ws://localhost:50211
+Read port: 50220
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1660747930972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DILLIB~1.NSP\\AppData\\Local\\Temp\\rust_mozprofileLlfjNB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50211/devtools/browser/3f49392a-c4b7-4f67-be05-472536f6be09
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1660747937926	Marionette	INFO	Stopped listening on port 50220
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
